@@ -1,0 +1,1 @@
+<?php /**PATH C:\projects\nneenen\beautica\resources\views/partials/sidebar-categories.blade.php ENDPATH**/ ?>
